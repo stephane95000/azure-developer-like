@@ -83,9 +83,9 @@
         <artifactId>azure-webapp-maven-plugin</artifactId>  
         <version>2.13.0</version>
           <configuration>
-              <resourceGroup>rg-trainee-fptg5r-10_rg</resourceGroup>
-              <appName>webapp10</appName>
-              <pricingTier>P1v3</pricingTier>
+              <resourceGroup>rg-trainee-9592vd-4_rg</resourceGroup>
+              <appName>wb100</appName>
+              <pricingTier>P2v2</pricingTier>
               <region>francecentral</region>
               <runtime/>
               <deployment>
